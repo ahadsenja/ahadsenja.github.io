@@ -22,6 +22,7 @@
 }
 
 .jumbotron {
+    color: #000000;
     position: relative;
     background: url("/static/assets/DSCF0533.JPG");
     background-repeat: no-repeat;
@@ -39,10 +40,6 @@ h3 {
 
 .skill {
     padding-top: 50px;
-}
-
-section {
-    color: #4c4c4c;
 }
 
 #sub-title {
@@ -87,4 +84,12 @@ section {
 
 #experience-desc-text {
     font-size: 14px;
+}
+
+.card {
+    color: #191919;
+}
+
+.card:hover {
+    background-color: #f1f1f1;
 }
