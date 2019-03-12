@@ -82,14 +82,30 @@ h3 {
     border: 1px dashed #1a1a1a;
 }
 
+.footer-icon a {
+    color: #ffffff;
+    display: inline-block;
+    border: 1px dashed transparent;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50px;
+    margin-right: 10px;
+    transition: .4s;
+    font-size: 18px;
+}
+
+.footer-icon a:hover {
+    outline: none;
+    text-decoration: none;
+    border: 1px dashed #ffffff;
+}
+
 #experience-desc-text {
     font-size: 14px;
 }
 
-.card {
-    color: #191919;
-}
-
-.card:hover {
-    background-color: #f1f1f1;
+#myWork {
+    width: 80%;
 }
