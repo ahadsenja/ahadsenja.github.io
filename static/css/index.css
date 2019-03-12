@@ -107,5 +107,15 @@ h3 {
 }
 
 #myWork {
-    width: 80%;
+    width: 68%;
+}
+
+#ido-img {
+    width: 32%;
+}
+
+#ido-text {
+    text-align: center; 
+    padding-top: 10px;
+    color: #000000;
 }
