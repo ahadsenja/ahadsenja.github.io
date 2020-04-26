@@ -1,0 +1,248 @@
+/* HEADER SECTION */
+.header {
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.79) 0%, rgba(1, 4, 64, 0) 122.67%), url('../assets/DSCF0533.JPG');
+  font-family: 'Oxygen', sans-serif;
+}
+
+.header img {
+  width: 100%;
+  height: 100vh;
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+  color: #FFFFFF;
+  padding-left: 50px;
+}
+
+.navbar-light .navbar-nav .active>.nav-link:hover {
+  color: #BF214B;
+}
+
+.header-text {
+  font-family: 'Oxygen', sans-serif;
+  color: #FFFFFF;
+  margin-top: 250px;
+}
+
+.hi {
+  font-size: 46px;
+  font-weight: 300;
+}
+
+.name {
+  font-size: 64px;
+  font-weight: 500;
+}
+
+.profession {
+  font-size: 24px;
+  font-weight: 300;
+}
+/* END OF HEADER SECTION */
+
+/* ABOUT ME SECTION */
+.container .about-me {
+  margin-top: 150px;
+}
+
+.about-text-title p {
+  margin-bottom: 0;
+  font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.about-text-title h3 {
+  font-size: 36px;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 700;
+}
+
+.about-text-title #about-red-text {
+  color: #BF214B;
+}
+
+.about-image {
+  width: 100%;
+  overflow: hidden;
+}
+
+.about-image img {
+  width: 100%;
+}
+
+.about-me p {
+  font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
+}
+/* END OF ABOUT SECTION */
+
+/* ACTIVITIES SECTION */
+.activities {
+  margin-top: 130px;
+}
+
+.activities p {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.activities h3 {
+  font-weight: 700;
+  font-size: 36px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.activities-title #activities-red-text {
+  color: #BF214B;
+}
+
+.activities-card .card {
+  padding: 30px 20px 80px;
+  margin: 50px 0px 100px;
+  box-shadow: 2px 2px 8px #aaaaaa;
+}
+/* END OF ACTIVITIES SECTION */
+
+/* SKILL SECTION */
+.my-skills-section {
+  background-color: #000000;
+}
+
+.my-skill-title {
+  color: #FFFFFF;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.my-skill-title h3 {
+  font-weight: 700;
+}
+
+.my-skills-section {
+  padding: 80px 0px 80px;
+}
+
+.my-skill-title p {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.my-skill-title #skill-red-text {
+  color: #BF214B;
+}
+
+.my-skills-section .skill-description {
+  color: #FFFFFF;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  padding-top: 20px;
+  line-height: 1.8em;
+}
+
+.progress {
+  border-radius: 20px;
+  height: 13px;
+  margin-bottom: 30px;
+}
+
+.progress .progress-bar {
+  background-color: #BF214B;
+  text-align: right;
+  padding-right: 10px;
+  font-weight: 500;
+}
+
+.skill-javascript p {
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  font-size: 14px;
+  color: #FFFFFF;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.skill-reactjs p {
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  font-size: 14px;
+  color: #FFFFFF;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.skill-rn p {
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  font-size: 14px;
+  color: #FFFFFF;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.skill-wordpress p {
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  font-size: 14px;
+  color: #FFFFFF;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.skill-figma p {
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  font-size: 14px;
+  color: #FFFFFF;
+  font-family: 'Oxygen', sans-serif;
+}
+/* END OF SKILL SECTION */
+
+/* MY EXPERIENCE SECTION */
+.experience-section {
+  margin: 100px 0px 100px;
+}
+
+.container .experience-title {
+  text-align: center;
+}
+
+.experience-title p {
+  margin-bottom: 0;
+  font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.experience-title h3 {
+  margin-bottom: 0;
+  font-size: 36px;
+  font-weight: 700;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.experience-title #experience-red-text {
+  color: #BF214B;
+}
+/* END OF MY EXPERIENCE SECTION */
+
+/* FOOTER SECTION */
+footer {
+  background-color: #BF214B;
+  padding: 50px 50px;
+}
+
+footer p {
+  color: #FFFFFF;
+  font-size: 13px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+footer a {
+  color: #FFFFFF;
+}
+
+footer a:hover {
+  color: #CCCCCC;
+  text-decoration: none;
+}
+/* END OF FOOTER SECTION */
