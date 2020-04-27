@@ -258,8 +258,63 @@
       <p>Portfolio</p>
       <h3>My <span id="portfolio-red-text">Portfolio</span></h3>
     </div>
+
+    <!-- portfolio tab content -->
+    <div class="container">
+      <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item">
+          <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Profile</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact</a>
+        </li>
+      </ul>
+
+      <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">...</div>
+        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
+        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <img src="" alt="">
+      </div>
+    </div>
   </section>
   <!-- END OF PORTFOLIO SECTION -->
+
+  <!-- TESTIMONY SECTION -->
+  <section class="testimony-section">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <p>Customer Said</p>
+          <h3>What The Say About Me</h3>
+        </div>
+
+        <div class="col">
+          <p id="testimony-text">
+            “I’m a fresh graduate on November 2019, but 
+            actually i start my experience as a web designer 
+            when i still on my campus, i do my study and work 
+            in another time.”
+          </p>
+
+          <br>
+          <div>
+            <p id="customer-name">Jhonatan Doe</p>
+            <p id="customer-institution">CEO at CV Blabla.com</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- END OF TESTIMONY SECTION -->
 
   <!-- FOOTER SECTION -->
   <section>
@@ -272,7 +327,6 @@
     </footer>
   </section>
 
-  <script></script>
-  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.js" integrity="sha256-r/AaFHrszJtwpe+tHyNi/XCfMxYpbsRg2Uqn0x3s2zc=" crossorigin="anonymous"></script>
 </body>
 </html>
