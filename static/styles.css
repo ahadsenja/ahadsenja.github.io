@@ -324,6 +324,42 @@
 }
 /* END OF TESTIMONY SECTION */
 
+/* BLOG SECTION */
+.blog-section {
+  padding: 100px 0px 100px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.blog-section .blog-title {
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.blog-section .blog-title p {
+  margin-bottom: 0;
+}
+
+.blog-section .blog-title #blog-red-text {
+  color: #BF214B;
+}
+
+.blog-section a {
+  color: #BF214B;
+}
+
+.blog-section #meta {
+  color: #BF214B;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.blog-section h3 {
+  padding-top: 8px;
+  font-weight: bold;
+  font-size: 24px;
+}
+/* END OF BLOG SECTION */
+
 /* FOOTER SECTION */
 footer {
   background-color: #BF214B;
