@@ -203,6 +203,10 @@
   margin: 100px 0px 100px;
 }
 
+.experience-title {
+  padding-bottom: 60px;
+}
+
 .container .experience-title {
   text-align: center;
 }
@@ -214,16 +218,66 @@
 }
 
 .experience-title h3 {
-  margin-bottom: 0;
   font-size: 36px;
   font-weight: 700;
-  font-family: 'Oxygen', sans-serif;
 }
 
 .experience-title #experience-red-text {
   color: #BF214B;
 }
+
+#experience-time {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.experience-section .row {
+  font-family: 'Oxygen', sans-serif;
+}
+
+.row #experience-title {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.row #experience-sub-title {
+  font-size: 18px;
+}
+
+.row #experience-institution {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.row #experience-description {
+  font-size: 14px;
+}
 /* END OF MY EXPERIENCE SECTION */
+
+/* PORTFOLIO SECTION */
+.portfolio-section {
+  margin: 100px 0px 100px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.portfolio-title {
+  text-align: center;
+}
+
+.portfolio-title p {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.portfolio-title h3 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.portfolio-title #portfolio-red-text {
+  color: #BF214B;
+}
+/* END OF PORTFOLIO SECTION */
 
 /* FOOTER SECTION */
 footer {
