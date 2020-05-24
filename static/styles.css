@@ -107,7 +107,8 @@ body {
 }
 
 .about-image img {
-  width: 80%;
+  width: 95%;
+  border-radius: 0px 0px 0px 100px;
 }
 
 .about-me p {
