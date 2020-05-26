@@ -444,4 +444,17 @@ footer a:hover {
   color: #CCCCCC;
   text-decoration: none;
 }
+
+.footer-sosmed {
+  font-size: 32px;
+}
+
+.footer-sosmed a {
+  padding-right: 10px;
+}
+
+.footer h5 {
+  font-family: "Oxygen", sans-serif;
+  padding-bottom: 10px;
+}
 /* END OF FOOTER SECTION */
