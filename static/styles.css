@@ -401,7 +401,7 @@ body {
 .clients-section {
   background-color: #000000;
   padding-top: 50px;
-  padding-bottom: 100px;
+  padding-bottom: 150px;
 }
 
 .clients-title {
@@ -427,7 +427,7 @@ body {
 /* FOOTER SECTION */
 footer {
   background-color: #222222;
-  padding: 50px 50px;
+  padding: 50px 50px 20px;
 }
 
 footer p {
