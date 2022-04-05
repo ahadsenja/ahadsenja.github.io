@@ -1,0 +1,26 @@
+.about-me {
+  padding: 100px 0;
+}
+
+.about-me .about-text-title p {
+  margin-bottom: 0;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.about-me .about-text-title h3 {
+  font-size: 36px;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 600;
+}
+
+.about-me .about-text-title #about-red-text {
+  color: #E74A74;
+}
+
+.about-me p {
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.8rem;
+  text-align: justify;
+}

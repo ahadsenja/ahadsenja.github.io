@@ -1,0 +1,240 @@
+@import url("header.css");
+@import url("navbar.css");
+@import url("hero.css");
+@import url("about.css");
+@import url("activities.css");
+
+body {
+  overflow-x: hidden;
+}
+
+/* MY EXPERIENCE SECTION */
+.experience-section {
+  margin: 100px 0px 100px;
+}
+
+.experience-title {
+  padding-bottom: 60px;
+}
+
+.container .experience-title {
+  text-align: center;
+}
+
+.experience-title p {
+  margin-bottom: 0;
+  font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.experience-title h3 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.experience-title #experience-red-text {
+  color: #BF214B;
+}
+
+#experience-time {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.experience-section .row {
+  font-family: 'Oxygen', sans-serif;
+}
+
+.row #experience-title {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.row #experience-sub-title {
+  font-size: 18px;
+}
+
+.row #experience-institution {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.row #experience-description {
+  font-size: 14px;
+}
+
+/* END OF MY EXPERIENCE SECTION */
+
+/* PORTFOLIO SECTION */
+.portfolio-section {
+  margin: 100px 0px 100px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.portfolio-title {
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.portfolio-title p {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.portfolio-title h3 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.portfolio-title #portfolio-red-text {
+  color: #BF214B;
+}
+
+.portfolio-section .nav .nav-link {
+  color: #000000;
+  font-size: 15px;
+}
+
+/* END OF PORTFOLIO SECTION */
+
+/* TESTIMONY SECTION */
+.testimony-section {
+  background-color: #BF214B;
+  padding: 80px 0px 100px;
+  font-family: 'Oxygen', sans-serif;
+  color: #FFFFFF
+}
+
+.testimony-section .row p {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.testimony-section .row h3 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.testimony-section .row #testimony-text {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 2.2em;
+}
+
+.testimony-section .row #customer-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.testimony-section .row #customer-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.testimony-section .row #customer-institution {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+/* END OF TESTIMONY SECTION */
+
+/* BLOG SECTION */
+.blog-section {
+  padding: 100px 0px 100px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.blog-section .blog-title {
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.blog-section .blog-title p {
+  margin-bottom: 0;
+}
+
+.blog-section .blog-title #blog-red-text {
+  color: #BF214B;
+}
+
+.blog-section a {
+  color: #BF214B;
+}
+
+.blog-section #meta {
+  color: #BF214B;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.blog-section h3 {
+  padding-top: 8px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+/* END OF BLOG SECTION */
+
+/* MY CLIENTS */
+.clients-section {
+  background-color: #000000;
+  padding-top: 50px;
+  padding-bottom: 150px;
+}
+
+.clients-title {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+.clients-title p {
+  margin-bottom: 0;
+  color: #FFFFFF;
+}
+
+.clients-title h3 {
+  color: #FFFFFF;
+}
+
+#clients-red-text {
+  color: #BF214B;
+}
+
+/* MY CLIENTS END */
+
+/* FOOTER SECTION */
+footer {
+  background-color: #222222;
+  padding: 50px 50px 20px;
+}
+
+footer p {
+  color: #FFFFFF;
+  font-size: 13px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+footer a {
+  color: #FFFFFF;
+}
+
+footer a:hover {
+  color: #CCCCCC;
+  text-decoration: none;
+}
+
+.footer-sosmed {
+  font-size: 32px;
+}
+
+.footer-sosmed a {
+  padding-right: 10px;
+}
+
+.footer h5 {
+  font-family: "Oxygen", sans-serif;
+  padding-bottom: 10px;
+}
+
+/* END OF FOOTER SECTION */

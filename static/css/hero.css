@@ -1,0 +1,73 @@
+.header-text .hi {
+  font-family: 'Kanit', sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  color: #000000;
+}
+
+.header-text .name {
+  font-family: 'Kanit', sans-serif;
+  font-size: 68px;
+  font-weight: 600;
+  color: #000000;
+}
+
+.header-text .profession {
+  font-family: 'Forum', cursive;
+  font-size: 24px;
+  color: #000000;
+}
+
+.cta .btn-hire-me {
+  background-color: #E74A74;
+  color: #ffffff;
+  padding: 12px 50px 12px;
+  border-radius: 50px;
+}
+
+.cta .btn-hire-me:hover {
+  cursor: pointer;
+  background-color: #CD3961;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.cta .btn-download-cv {
+  border: 1px solid #E74A74;
+  padding: 11px 30px;
+  border-radius: 50px;
+  margin-left: 14px;
+  color: #E74A74;
+}
+
+.cta .btn-download-cv:hover {
+  border: 1px solid #E74A74;
+  background-color: #E74A74;
+  color: #ffffff;
+  padding: 11px 30px;
+  border-radius: 50px;
+  text-decoration: none;
+}
+
+.icon-sosmed a {
+  color: white;
+  font-size: 28px;
+  text-decoration: none;
+  width: 10px;
+  color: #333333;
+  padding-right: 40px;
+}
+
+.icon-sosmed a:hover {
+  color: #E74A74;
+}
+
+
+.arrow img {
+  width: 14px;
+  height: 40px;
+  position: absolute;
+  bottom: 10px;
+  justify-content: center;
+  animation: bounce 2s infinite;
+}
