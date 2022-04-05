@@ -18,6 +18,10 @@
   color: #000000;
 }
 
+.cta {
+  padding-top: 40px;
+}
+
 .cta .btn-hire-me {
   background-color: #E74A74;
   color: #ffffff;
@@ -27,8 +31,9 @@
 
 .cta .btn-hire-me:hover {
   cursor: pointer;
-  background-color: #CD3961;
-  color: #ffffff;
+  border: 1px solid #E74A74;
+  color: #E74A74;
+  background-color: #FFFFFF;
   text-decoration: none;
 }
 
@@ -55,7 +60,7 @@
   text-decoration: none;
   width: 10px;
   color: #333333;
-  padding-right: 40px;
+  padding: 20px 40px 0 0;
 }
 
 .icon-sosmed a:hover {
