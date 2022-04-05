@@ -3,6 +3,8 @@
 @import url("css/hero.css");
 @import url("css/about.css");
 @import url("css/activities.css");
+@import url("css/clients.css");
+@import url("css/footer.css");
 
 body {
   overflow-x: hidden;
@@ -134,67 +136,3 @@ body {
 }
 
 /* END OF BLOG SECTION */
-
-/* MY CLIENTS */
-.clients-section {
-  background-color: #000000;
-  padding-top: 50px;
-  padding-bottom: 150px;
-}
-
-.clients-title {
-  text-align: center;
-  margin-top: 40px;
-  margin-bottom: 80px;
-}
-
-.clients-title p {
-  margin-bottom: 0;
-  color: #FFFFFF;
-}
-
-.clients-title h3 {
-  color: #FFFFFF;
-}
-
-#clients-red-text {
-  color: #BF214B;
-}
-
-/* MY CLIENTS END */
-
-/* FOOTER SECTION */
-footer {
-  background-color: #222222;
-  padding: 50px 50px 20px;
-}
-
-footer p {
-  color: #FFFFFF;
-  font-size: 13px;
-  font-family: 'Oxygen', sans-serif;
-}
-
-footer a {
-  color: #FFFFFF;
-}
-
-footer a:hover {
-  color: #CCCCCC;
-  text-decoration: none;
-}
-
-.footer-sosmed {
-  font-size: 32px;
-}
-
-.footer-sosmed a {
-  padding-right: 10px;
-}
-
-.footer h5 {
-  font-family: "Oxygen", sans-serif;
-  padding-bottom: 10px;
-}
-
-/* END OF FOOTER SECTION */
