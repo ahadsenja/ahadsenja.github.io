@@ -97,46 +97,6 @@ body {
 
 /* END OF PORTFOLIO SECTION */
 
-/* TESTIMONY SECTION */
-.testimony-section {
-  background-color: #BF214B;
-  padding: 80px 0px 100px;
-  font-family: 'Oxygen', sans-serif;
-  color: #FFFFFF
-}
-
-.testimony-section .row p {
-  font-size: 14px;
-  margin-bottom: 0;
-}
-
-.testimony-section .row h3 {
-  font-size: 36px;
-  font-weight: 700;
-}
-
-.testimony-section .row #testimony-text {
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 2.2em;
-}
-
-.testimony-section .row #customer-name {
-  font-size: 20px;
-  font-weight: bold;
-}
-
-.testimony-section .row #customer-name {
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.testimony-section .row #customer-institution {
-  font-size: 12px;
-  font-weight: 300;
-}
-
-/* END OF TESTIMONY SECTION */
 
 /* BLOG SECTION */
 .blog-section {
